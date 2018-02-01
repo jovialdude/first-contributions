@@ -2072,3 +2072,4 @@
 - [Evgeny Pavlov](https://github.com/kindanoob)
 - [Petr Janik](https://github.com/petr7555)
 - [Patrick Naughton](https://github.com/patricknaughton01)
+- [Dat Nguyen](github.com/jovialdudedude)
